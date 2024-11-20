@@ -1,1 +1,1 @@
-# Jala-academy-Python-Assignmnets
+# Jala-academy-Python-Assignments
